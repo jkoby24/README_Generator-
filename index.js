@@ -86,7 +86,7 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 ## License
-[${answers.license}](../LICENSE)
+[${answers.license}](LICENSE)
 ## Badges
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Contributing 
