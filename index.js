@@ -73,7 +73,7 @@ function promptUser() {
 // function to write README file
 function generateREADME(answers) {
   return `# ${answers.title}
-![license shield](https://img.shields.io/badge/License-${answers.license}-blueviolet.svg)
+![license shield](https://img.shields.io/badge/License-${answers.license}-red.svg)
 ## Description
 ${answers.description}
 ## Table of Contents (Optional)
@@ -86,7 +86,7 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 ## License
-${answers.license}
+[${answers.license}](../LICENSE)
 ## Badges
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Contributing 
