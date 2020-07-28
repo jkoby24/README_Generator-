@@ -94,7 +94,7 @@ ${answers.contribution}
 ## Tests
 ${answers.test}
 ## Questions
-* Github:[${answers.questions}](http://github.com/${answers.questions} "Visit me on GitHub")
+* Github: [${answers.questions}](http://github.com/${answers.questions} "Visit me on GitHub")
 * Email: ${answers.email} - Feel free to reach out if you have any questions.
 `;
 }
